@@ -1,1 +1,1 @@
-"# Git-QGG-test" 
+# Git-QGG-test
