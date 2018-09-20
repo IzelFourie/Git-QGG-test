@@ -1,12 +1,13 @@
 ---
 title: 'Compute Centered and Scaled Genotype Matrix: W'
 author: "Izel Fourie Sørensen"
-date: "r format(Sys.Date())"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
     keep_md: TRUE
     df_print: paged
-header-includes: \usepackage{bm}
+includes:
+         before_body: preamble-mathjax.tex
 ---
 
 ```{r setup, include=FALSE}
