@@ -1,6 +1,6 @@
 # Compute Centered and Scaled Genotype Matrix: W
 Izel Fourie Sørensen  
-r format(Sys.Date())  
+`r format(Sys.time(), '%d %B, %Y')`  
 
 
 
